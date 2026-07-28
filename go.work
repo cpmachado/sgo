@@ -4,6 +4,7 @@ use (
 	./tour
 	./tutorial/fuzz
 	./tutorial/generics
+	./tutorial/getting-started
 	./tutorial/govulncheck
 	./tutorial/web-service-gin
 )
